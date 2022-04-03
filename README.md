@@ -49,11 +49,8 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://t.me/CrazeBots">
+<a href="https://t.me/Anime_Fair">
    <p> Telegram </p>
-  </a>
-<a href="https://youtube.com/c/technologyrk">
-   <p> YouTube </p>
   </a>
 
 ## Credits
